@@ -1,4 +1,4 @@
-# railway-management-system
+# Railway Management System
 Railway Management System is a website built as a project for the DBMS course. The Railway Reservation System facilitates the passengers to enquire about the trains available on the basis of source and destination, Booking of tickets, check PNR status of the booked ticket, etc. The aim of the project is to design and develop a database maintaining the records of different trains, train status, and passengers.
 
 To install and run on your pc:-
